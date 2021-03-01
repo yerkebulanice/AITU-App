@@ -1,0 +1,6 @@
+framework module Pods_Social_Media_App__Endterm_Project_ {
+  umbrella header "Pods-Social Media App (Endterm Project)-umbrella.h"
+
+  export *
+  module * { export * }
+}
